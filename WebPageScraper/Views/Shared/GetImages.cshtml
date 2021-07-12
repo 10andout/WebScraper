@@ -1,0 +1,12 @@
+﻿@model List<string>
+
+@{ if (Model.Any())
+    {
+        @foreach (var img in @Model)
+        {
+            <li>
+                <p><img src="@img" style="max-width: 200px; max-height: 200px; width: auto; height: auto;" /></p>
+            </li>
+        }
+    }
+}

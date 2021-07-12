@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Web Scraper";
+}
+
+<div class="text-center section-padding">
+    <h1 class="display-4">Please enter a valid URL and click GO</h1>
+    <div>
+        <input type="text" placeholder="Enter URL" id="url" />&nbsp;&nbsp;<button>GO</button>
+    </div>
+    <div id="error" style="color: red; visibility: hidden">Invalid URL, please enter a new URL and try again!</div>
+</div>
+<div id="images" class="section-padding">
+    <ul id="lightSlider">
+
+    </ul>
+</div>
+<div id="words" class="section-padding">
+    <table id="word-table" class="tablesaw" data-tablesaw-mode="stack">
+               <thead><th></th><th></th></thead>
+    </table>
+</div>

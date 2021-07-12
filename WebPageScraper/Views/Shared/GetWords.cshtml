@@ -1,0 +1,31 @@
+﻿@model Dictionary<string, WordModel>
+
+@{
+    var topWords = Model.OrderByDescending(x => x.Value.Count);
+}
+
+<tr>
+    <td>Word Count: @Model.Count</td>
+</tr>
+<tr>
+    <th>Word</th>
+    <th>Occurances</th>
+</tr>
+
+@for(var i=0; i<7; i++)
+{
+    if (i > topWords.Count() - 1)
+    {
+        break;
+    }
+    var word = topWords.ElementAt(i).Value;
+    if (word != null)
+    {
+        <tr>
+            <td>@word.Word</td>
+            <td>@word.Count</td>
+        </tr>
+    }
+}
+
+

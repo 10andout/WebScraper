@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace WebPageScraper.Static
+{
+    public static class SampleHtml
+    {
+        public static string TestHtml => "<!DOCTYPE html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width, initial-scale=1'><title>Single page template</title><link rel='stylesheet' href='http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css' /><script src='http://code.jquery.com/jquery-1.7.1.min.js'></script><script src='http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js'></script></head><body><div data-role='page' id='page1'><div data-role='header'><h1>Single page</h1><img src='/imgs/testimage1.jpg' /></div><div data-role='content'><h1>Moo</h1><img src='/imgs/testimage2.jpg' /><p>Rock your body...</p><script src='https://gist.github.com/2385560.js?file=gistfile1.txt'></script><p>top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top top</p> <p>toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo toptwo</p> <p>topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree topthree</p> <p>topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour topfour</p> <p>topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive topfive</p> <p> topsix topsix topsix topsix topsix topsix topsix topsix topsix topsix topsix topsix topsix topsix</p> <p>topseven topseven topseven topseven topseven topseven topseven topseven topseven topseven</p><p><a href='testa.cfm' data-role='button'>Load bad</a></p><p><a href='test2.cfm' data-role='button'>Load good</a></p></div><div data-role='footer'><h4>Footer content</h4><img src='/imgs/testimage3.jpg' /></div></div></body></html>";
+    }
+}

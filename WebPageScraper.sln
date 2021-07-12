@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPageScraper", "WebPageScraper\WebPageScraper.csproj", "{16998CD5-92BE-41CB-88CC-74DB0DEFC038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Webpage Scraper", "Test Webpage Scraper\Test Webpage Scraper.csproj", "{9C1DAE81-8DCA-4E2E-B863-2C6BB17C4365}"
+	ProjectSection(ProjectDependencies) = postProject
+		{16998CD5-92BE-41CB-88CC-74DB0DEFC038} = {16998CD5-92BE-41CB-88CC-74DB0DEFC038}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16998CD5-92BE-41CB-88CC-74DB0DEFC038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16998CD5-92BE-41CB-88CC-74DB0DEFC038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16998CD5-92BE-41CB-88CC-74DB0DEFC038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16998CD5-92BE-41CB-88CC-74DB0DEFC038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1DAE81-8DCA-4E2E-B863-2C6BB17C4365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1DAE81-8DCA-4E2E-B863-2C6BB17C4365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1DAE81-8DCA-4E2E-B863-2C6BB17C4365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1DAE81-8DCA-4E2E-B863-2C6BB17C4365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC48FF5-C0E2-46B8-A7DC-E33ACA8DBD6C}
+	EndGlobalSection
+EndGlobal
