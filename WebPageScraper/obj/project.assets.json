@@ -1878,11 +1878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\WebPageScraper.csproj",
+      "projectUniqueName": "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\WebPageScraper.csproj",
       "projectName": "WebPageScraper",
-      "projectPath": "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\WebPageScraper.csproj",
+      "projectPath": "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\WebPageScraper.csproj",
       "packagesPath": "C:\\Users\\titan\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\obj\\",
+      "outputPath": "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

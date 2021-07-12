@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zpF0xJ8fzdIT0/nbmsMNpD0b3eIya7tXzWqZv9Shjp+wkvmFwPL16+xfLNHZfboUFNK0q3bCubs065LvGHdJhw==",
+  "dgSpecHash": "Oy3g2QDD9dItoumqgBUGtknIjYWp4gAsVW8RLBNhIsDCPciRgT5Q4W75jngZn4AE4MQfh0g0tQSn6a/kxKfyyg==",
   "success": true,
-  "projectFilePath": "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\WebPageScraper.csproj",
+  "projectFilePath": "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\WebPageScraper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\titan\\.nuget\\packages\\htmlagilitypack.netcore\\1.5.0.1\\htmlagilitypack.netcore.1.5.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",

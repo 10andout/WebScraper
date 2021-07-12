@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\WebPageScraper\\WebPageScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj": {}
+    "D:\\Work\\WebScraper\\WebScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj": {}
   },
   "projects": {
-    "D:\\Work\\WebPageScraper\\WebPageScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj": {
+    "D:\\Work\\WebScraper\\WebScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\WebPageScraper\\WebPageScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj",
+        "projectUniqueName": "D:\\Work\\WebScraper\\WebScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj",
         "projectName": "Test Webpage Scraper",
-        "projectPath": "D:\\Work\\WebPageScraper\\WebPageScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj",
+        "projectPath": "D:\\Work\\WebScraper\\WebScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj",
         "packagesPath": "C:\\Users\\titan\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\WebPageScraper\\WebPageScraper\\Test Webpage Scraper\\obj\\",
+        "outputPath": "D:\\Work\\WebScraper\\WebScraper\\Test Webpage Scraper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\WebPageScraper.csproj": {
-                "projectPath": "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\WebPageScraper.csproj"
+              "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\WebPageScraper.csproj": {
+                "projectPath": "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\WebPageScraper.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\WebPageScraper.csproj": {
+    "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\WebPageScraper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\WebPageScraper.csproj",
+        "projectUniqueName": "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\WebPageScraper.csproj",
         "projectName": "WebPageScraper",
-        "projectPath": "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\WebPageScraper.csproj",
+        "projectPath": "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\WebPageScraper.csproj",
         "packagesPath": "C:\\Users\\titan\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\WebPageScraper\\WebPageScraper\\WebPageScraper\\obj\\",
+        "outputPath": "D:\\Work\\WebScraper\\WebScraper\\WebPageScraper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

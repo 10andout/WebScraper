@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NiGmHxxaGyK8nW0ZMTIGXgC6f+Qb/sd0KnmCv0a6WMXzSDByzl+Kf+I0pNqzSKSGLwdqA7GhDRVvgRjhijABRQ==",
+  "dgSpecHash": "FSkbiPUKw3cSbp9raMgIo0bRJIUxUdi3kPu/Vj/10+fKw7wt0VrbYURCN8fnZ5oQoo5IkAuRNG04BkUAz8Fa7A==",
   "success": true,
-  "projectFilePath": "D:\\Work\\WebPageScraper\\WebPageScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj",
+  "projectFilePath": "D:\\Work\\WebScraper\\WebScraper\\Test Webpage Scraper\\Test Webpage Scraper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\titan\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\titan\\.nuget\\packages\\htmlagilitypack.netcore\\1.5.0.1\\htmlagilitypack.netcore.1.5.0.1.nupkg.sha512",
